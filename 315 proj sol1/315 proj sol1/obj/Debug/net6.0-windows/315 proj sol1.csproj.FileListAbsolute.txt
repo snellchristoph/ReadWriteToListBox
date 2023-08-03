@@ -1,0 +1,17 @@
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\bin\Debug\net6.0-windows\315 proj sol1.exe
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\bin\Debug\net6.0-windows\315 proj sol1.deps.json
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\bin\Debug\net6.0-windows\315 proj sol1.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\bin\Debug\net6.0-windows\315 proj sol1.dll
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\bin\Debug\net6.0-windows\315 proj sol1.pdb
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\_315_proj_sol1.Form1.resources
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.dll
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\refint\315 proj sol1.dll
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.pdb
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\315 proj sol1.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documents\BSc IT\2023\CMPG315 Networks\Project\Windows form solutions\315 proj sol1\315 proj sol1\obj\Debug\net6.0-windows\ref\315 proj sol1.dll
